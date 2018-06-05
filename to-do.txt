@@ -1,0 +1,11 @@
+BG color, font, border classes already exist
+Animation CSS already exists
+Need to insert image assets
+
+> prevent default form submit behaviour (with event listener)
+> get form values
+> connect values to correct parts of card - correctly assign BG colour and font
+> get image sources
+> correct border class names
+> insert message
+> ensure page updates dynamically - card created each time user clicks 'make card'
